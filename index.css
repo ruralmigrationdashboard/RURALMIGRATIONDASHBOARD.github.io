@@ -1,0 +1,270 @@
+ .u-section-1 {
+  background-image: linear-gradient(#feede5, #f5f7fa);
+  min-height: 74px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 74px;
+  background-image: url("images/R3.3.1_polsat_raport-csr-1920x562.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 74px;
+  background-image: linear-gradient(#e0e5eb, #f5f7fa);
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-1 .u-text-1 {
+  line-height: 1;
+  background-image: none;
+  margin: 0;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 554px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 39px;
+    background-position: 50% 0%;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 39px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 424px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 23px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 1147px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 33px;
+    order: 1;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    order: 0;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 85px;
+    padding-right: 70px;
+    padding-left: 50px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 602px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 21px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-top: 55px;
+    padding-right: 0;
+  }
+} .u-section-2 {
+  min-height: 4084px;
+}
+
+.u-section-2 .u-tabs-1 {
+  min-height: 4472px;
+  margin-top: 0;
+  margin-bottom: 0;
+  height: auto;
+}
+
+.u-section-2 .u-tab-link-1 {
+  background-image: none;
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+
+.u-section-2 .u-tab-link-2 {
+  background-image: none;
+  font-size: 1.25rem;
+  font-weight: 600;
+  padding: 10px 25px;
+}
+
+.u-section-2 .u-tab-content-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-tab-pane-1 {
+  background-image: none;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-2 .u-custom-html-1 {
+  height: auto;
+  min-height: 2895px;
+  width: 2320px;
+  margin: 0;
+}
+
+.u-section-2 .u-container-layout-2 {
+  padding: 0;
+}
+
+.u-section-2 .u-custom-html-2 {
+  height: auto;
+  min-height: 2895px;
+  width: 2320px;
+  margin: 0;
+}
+
+.u-section-2 .u-container-layout-3 {
+  padding: 0 30px;
+}
+
+.u-section-2 .u-custom-html-3 {
+  height: auto;
+  min-height: 4330px;
+  width: 2260px;
+  margin: 30px 0 -30px;
+}
+
+.u-section-2 .u-container-layout-4 {
+  padding: 0;
+}
+
+.u-section-2 .u-custom-html-4 {
+  height: auto;
+  min-height: 2895px;
+  width: 2320px;
+  margin: 0;
+}
+
+.u-section-2 .u-container-layout-5 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-custom-html-1 {
+    width: 1139px;
+  }
+
+  .u-section-2 .u-custom-html-2 {
+    width: 1139px;
+  }
+
+  .u-section-2 .u-custom-html-3 {
+    width: 1079px;
+  }
+
+  .u-section-2 .u-custom-html-4 {
+    width: 1139px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-custom-html-1 {
+    width: 660px;
+  }
+
+  .u-section-2 .u-custom-html-2 {
+    width: 660px;
+  }
+
+  .u-section-2 .u-custom-html-3 {
+    width: 600px;
+  }
+
+  .u-section-2 .u-custom-html-4 {
+    width: 660px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-tab-content-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-custom-html-1 {
+    width: 480px;
+  }
+
+  .u-section-2 .u-custom-html-2 {
+    width: 480px;
+  }
+
+  .u-section-2 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-2 .u-custom-html-3 {
+    width: 460px;
+  }
+
+  .u-section-2 .u-custom-html-4 {
+    width: 480px;
+  }
+
+  .u-section-2 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-custom-html-1 {
+    width: 280px;
+  }
+
+  .u-section-2 .u-custom-html-2 {
+    width: 280px;
+  }
+
+  .u-section-2 .u-custom-html-3 {
+    width: 260px;
+  }
+
+  .u-section-2 .u-custom-html-4 {
+    width: 280px;
+  }
+}
